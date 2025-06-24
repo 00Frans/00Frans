@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Mobile Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on developing web where I can utilize my skills.
-- 📫 You can find me on https://www.facebook.com/frans411/ or visit my [cejudo-portfolio.vercel.app](https://cejudo-portfolio.vercel.app/)
+- 📫 You can visit me on online portfolio [cejudo-portfolio.vercel.app](https://cejudo-portfolio.vercel.app/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Fun means enjoyment, amusement, or lighthearted pleasure.
 
